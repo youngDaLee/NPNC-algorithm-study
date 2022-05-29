@@ -6,3 +6,4 @@
 |2022.05.09|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[메뉴리뉴얼.py](src/메뉴리뉴얼.py) </br>[메뉴리뉴얼.md](solve/메뉴리뉴얼.md)|
 |2022.05.22|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[타겟넘버.py](src/타겟넘버.py) </br>[타겟넘버.md](solve/타겟넘버.md)|
 |2022.05.22|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|[네트워크.py](src/네트워크.py) </br>[네트워크.md](solve/네트워크.md)|
+|2022.05.29|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43162?language=python3)|[단어변환.py](src/단어변환.py) </br>[단어변환.md](solve/단어변환.md)|
