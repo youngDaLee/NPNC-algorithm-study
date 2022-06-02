@@ -13,3 +13,4 @@
 |date|문제|풀이|
 |---|----|----|
 |2022.06.01|[1486.Runnig Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[0601.py](LeetCode2206/0601.py) </br>[0601.md](LeetCode2206/0601.md)|
+|2022.06.02|[867.Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[0602.py](LeetCode2206/0602.py) </br>[0602.md](LeetCode2206/0602.md)|
