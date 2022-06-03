@@ -14,3 +14,4 @@
 |---|----|----|
 |2022.06.01|[1486.Runnig Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[0601.py](LeetCode2206/0601.py) </br>[0601.md](LeetCode2206/0601.md)|
 |2022.06.02|[867.Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[0602.py](LeetCode2206/0602.py) </br>[0602.md](LeetCode2206/0602.md)|
+|2022.06.03|[304. Range Sum Query 2D -Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[0603.py](LeetCode2206/0603.py) </br>[0603.md](LeetCode2206/0603.md)|
